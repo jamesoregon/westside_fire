@@ -1,0 +1,37 @@
+site,ilap_code,PVTName,pvt_group,pvt_name,forest_type,forest_type_new,change,Notes
+22,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,TSHE,TRUE,
+23,180210,Pacific silver fir - Intermediate,Pacific silver fir,Pacific silver fir - Intermediate,ABAM,ABAM,TRUE,
+24,120410,Mountain hemlock - Cold/Dry (Coastal/W.Cascades),Mountain hemlock,Mountain hemlock - Cold/Dry (Coastal/W.Cascades),TSME,TSME,TRUE,
+25,260510,Western hemlock - Moist,Western hemlock,Western hemlock - Moist,TSHE,TSHE,TRUE,
+26,180210,Pacific silver fir - Intermediate,Pacific silver fir,Pacific silver fir - Intermediate,ABAM,ABAM,TRUE,
+28,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,TSHE,TRUE,
+52,180310,Pacific silver fir - Warm,Pacific silver fir,Pacific silver fir - Warm,ABAM,ABAM,TRUE,
+53,180310,Pacific silver fir - Warm,Pacific silver fir,Pacific silver fir - Warm,ABAM,TSHE,FALSE,
+54,260810,Western hemlock - Cold,Western hemlock,Western hemlock - Cold,TSHE,TSHE,TRUE,
+55,180210,Pacific silver fir - Intermediate,Pacific silver fir,Pacific silver fir - Intermediate,ABAM,ABAM,TRUE,
+56,260510,Western hemlock - Moist,Western hemlock,Western hemlock - Moist,TSHE,TSHE,TRUE,
+57,120410,Mountain hemlock - Cold/Dry (Coastal/W.Cascades),Mountain hemlock,Mountain hemlock - Cold/Dry (Coastal/W.Cascades),TSME,TSME,TRUE,
+58,120410,Mountain hemlock - Cold/Dry (Coastal/W.Cascades),Mountain hemlock,Mountain hemlock - Cold/Dry (Coastal/W.Cascades),TSME,TSME,TRUE,
+59,260809,CHECK,Mountain hemlock,Mountain hemlock,TSME,TSME,TRUE,
+60,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,ABGR,FALSE,Almost Douglas-fir
+61,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,TSHE,TRUE,
+62,180210,Pacific silver fir - Intermediate,Pacific silver fir,Pacific silver fir - Intermediate,TSHE,TSHE,TRUE,
+64,180310,Pacific silver fir - Warm,Pacific silver fir,Pacific silver fir - Warm,TSHE,TSHE,TRUE,
+68,180210,Pacific silver fir - Intermediate,Pacific silver fir,Pacific silver fir - Intermediate,ABAM,ABAM,TRUE,
+71,260910,Western hemlock - Hyperdry,Western hemlock,Western hemlock - Hyperdry,TSHE,TSHE,TRUE,
+72,280110,Douglas-fir - Moist,Douglas-fir,Douglas-fir - Moist,PSME,TSHE,FALSE,
+81,260910,Western hemlock - Hyperdry,Western hemlock,Western hemlock - Hyperdry,TSHE,TSHE,TRUE,
+82,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,TSHE,TRUE,Almost ABGR or PSME
+83,200210,White fir - Intermediate,White fir,White fir - Intermediate,ABGR,ABGR,TRUE,Almost TSHE
+84,180210,Pacific silver fir - Intermediate,Pacific silver fir,Pacific silver fir - Intermediate,TSHE,TSHE,TRUE,
+85,120410,Mountain hemlock - Cold/Dry (Coastal/W.Cascades),Mountain hemlock,Mountain hemlock - Cold/Dry (Coastal/W.Cascades),TSME,TSME,TRUE,
+86,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,TSHE,TRUE,Almost ABGR
+87,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,TSHE,TRUE,
+88,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,TSHE,TRUE,
+89,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,TSHE,TRUE,
+90,180210,Pacific silver fir - Intermediate,Pacific silver fir,Pacific silver fir - Intermediate,ABAM,ABAM,TRUE,
+91,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,TSHE,TRUE,
+92,260210,Western hemlock - Intermediate,Western hemlock,Western hemlock - Intermediate,TSHE,ABAM,FALSE,
+93,180210,Pacific silver fir - Intermediate,Pacific silver fir,Pacific silver fir - Intermediate,ABAM,ABAM,TRUE,
+96,280110,Douglas-fir - Moist,Western hemlock,Western hemlock,TSHE,TSHE,TRUE,
+98,280110,Douglas-fir - Moist,White fir,White fir,,ABGR,FALSE,Almost TSHE

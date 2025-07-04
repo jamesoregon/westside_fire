@@ -1,0 +1,34 @@
+date,crew,site,sample_id,latitude,longitude,spp,sample_ht_cm,d10_mm,rings_to_soil,Notes
+44343,"MS, JR",Rig,RC001,43.57827,-122.39183,PSME,80,21,5,NA
+44343,"MS, JR",Rig,RC002,43.57821,-122.39127,PSME,60,28,4,NA
+44343,"MS, JR",Rig,RC003,43.59086,-122.48995,PSME,30,26,1,NA
+44343,"MS, JR",Rig,RC004,43.591,-122.48592,PSME,10,26,2,NA
+44344,"MS, JR",Rig,RC005,43.5564,-122.48802,PSME,20,25,4,NA
+44344,"MS, JR",Rig,RC006,43.52708,-122.50702,PSME,50,33,2,NA
+44344,"MS, JR",Rig,RC007,43.50287,-122.48273,PSME,60,30,7,NA
+44344,"MS, JR",Rig,RC009,43.49355,-122.48509,PSME,100,42,5,NA
+44344,"MS, JR",Rig,RC010,43.49289,-122.43951,CADE,30,13,3,NA
+44344,"MS, JR",Rig,RC011,43.49284,-122.43914,CADE,30,20,2,NA
+44349,MS,Rig,RC012,43.56493,-122.45785,CADE,40,44,3,NA
+44349,MS,Rig,RC013,43.56482,-122.45763,PSME,80,29,3,NA
+44349,MS,Rig,RC014,43.56477,-122.4552,PIPO,20,47,1,NA
+44349,"MS, JR",Rig,RC015,43.53078,-122.35654,TSHE,70,18,9,NA
+44349,"MS, JR",Rig,RC016,43.53073,-122.35661,PSME,50,20,5,NA
+44349,"MS, JR",Rig,RC017,43.53092,-122.35629,CADE,100,NA,13,NA
+44349,"MS, JR",Rig,RC018,43.52408,-122.36713,PIPO,30,43,1,NA
+44350,MS,Rig,RC019,43.55396,-122.38641,ABPR,90,29,11,NA
+44350,MS,Rig,RC020,43.55749,-122.39463,ABAM,20,15,2,NA
+omitted,omitted,omitted,R0155,omitted,omitted,PSME,10,7,2,NA
+omitted,omitted,omitted,R0153,omitted,omitted,PSME,10,9,1,NA
+omitted,omitted,omitted,R0145,omitted,omitted,PSME,10,28,0,NA
+omitted,omitted,omitted,R0085,omitted,omitted,PIPO,10,44,2,NA
+omitted,omitted,omitted,PIPO1,omitted,omitted,PIPO,20,2.7,7,NA
+omitted,omitted,omitted,ABGR2,omitted,omitted,ABGR,20,4.7,10,NA
+omitted,omitted,omitted,PIPO3,omitted,omitted,PIPO,30,5.4,7,NA
+omitted,omitted,omitted,ABGR3,omitted,omitted,ABGR,30,4.2,9,NA
+omitted,omitted,omitted,PIPO5,omitted,omitted,PIPO,30,4.7,6,NA
+omitted,omitted,omitted,PIPO6,omitted,omitted,PIPO,60,9,12,NA
+omitted,omitted,omitted,PIPO7,omitted,omitted,PIPO,60,16.4,8,NA
+omitted,omitted,omitted,PIPO8,omitted,omitted,PIPO,60,19.1,7,NA
+omitted,omitted,omitted,PIPO10,omitted,omitted,PIPO,30,11.5,8,NA
+omitted,omitted,omitted,PIPO11,omitted,omitted,PIPO,30,6.8,5,NA
